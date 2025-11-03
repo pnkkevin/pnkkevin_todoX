@@ -51,3 +51,16 @@ npm run build
 
 # 3️⃣ Start full app
 npm run start
+```
+
+---
+
+## 🌐 Live Demo
+- 🔗 [TodoX on Render](https://pnkkevin-todox.onrender.com/)
+
+---
+
+## 📇 Project Info
+- 👨‍💻 **Author:** [@pnkkevin](https://github.com/pnkkevin)
+- 🌱 **Purpose:** Learning & Portfolio project
+- 📦 **Stack:** MERN (Fullstack)
